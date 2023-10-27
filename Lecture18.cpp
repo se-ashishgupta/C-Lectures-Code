@@ -33,6 +33,7 @@ int main()
     {
         cout << ++x << " ";
     }
+
     cout << endl;
     cout << arr[1];
     return 0;

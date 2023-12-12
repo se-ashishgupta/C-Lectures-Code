@@ -20,8 +20,8 @@ void additionVoid()
 
 int main()
 {
-    int res = addition();
-    cout << res << endl;
+    // int res = addition();
+    // cout << res << endl;
 
     additionVoid();
 
